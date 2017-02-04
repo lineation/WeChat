@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<buttons>
+	<button>
+		<type>click</type>
+		<name>今日歌曲</name>
+		<key>V1001_TODAY_MUSIC</key>
+	</button>
+	<button>
+		<name>菜单</name>
+		<sub_button>
+		<type>view</type>
+		<name>搜索</name>
+		<url>http://www.soso.com/</url>
+		</sub_button>
+		<sub_button>
+			<type>view</type>
+			<name>视频</name>
+			<url>http://v.qq.com/</url>
+		</sub_button>
+		<sub_button>
+			<type>click</type>
+			<name>赞一下我们</name>
+			<key>V1001_GOOD</key>
+		</sub_button>
+</button>
+</buttons>
